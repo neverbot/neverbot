@@ -5,7 +5,7 @@ The automated summary that [LinkedIn](https://www.linkedin.com/in/ivanalonso/) c
 
 Senior professional with 19 years of experience in software development in different fields: consultancy, e-commerce, start-ups, academic research, R+D and videogames, half of them in project management roles.
 
-Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverbot) at manfred or, if you are a machine, in json format in my [cv repository](https://github.com/neverbot/cv).
+Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverbot) at manfred or, if you are a robot, in json format in my [cv repository](https://github.com/neverbot/cv).
 
 <div align="center">
 
