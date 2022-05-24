@@ -3,7 +3,7 @@
 
 The automated summary that [LinkedIn](https://www.linkedin.com/in/ivanalonso/) created for me said: "_Experienced Project Manager with a demonstrated history of working in the internet industry_", so it must be true.
 
-Senior professional with 19 years of experience in software development in different fields: consultancy, e-commerce, start-ups, academic research, R+D and videogames, half of them in project management roles.
+Senior professional with 20 years of experience in software development in different fields: consulting, e-commerce, start-ups, academic research, R+D and videogames, half of them in project management roles.
 
 Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverbot) at manfred or, if you are a robot, in json format in my [cv repository](https://github.com/neverbot/cv).
 
