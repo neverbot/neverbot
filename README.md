@@ -19,7 +19,7 @@ Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverb
 
 </div>
 
-I currently work at [gamelearn](https://github.com/gamelearn) as an _engineering manager / backend architect / developer experience advocate_, using mainly a full javascript stack. In some of my free time I like to mingle with open source videogame _things_:
+I currently work at [gamelearn](https://github.com/gamelearn) as a _senior engineering manager / backend architect / developer experience advocate_, using mainly a full javascript stack. In some of my free time I like to mingle with open source videogame _things_:
 
 * I developed [okinawa.js](https://github.com/okinawajs/okinawa.js), my own 2D javascript game engine, which powered [tenths](https://kids.sngular.com/repository) of mini serious games in the *pixie.es* programming learning platform for kids, now [sngular kids](https://kids.sngular.com/).
 * My itch for vintage [online muds](https://en.wikipedia.org/wiki/MUD) is tickled with the [maldorne](https://maldorne.org/) platform/organization, where I host several vintage [games](https://maldorne.org/games/), and develop my own games and mudlib: [Hexagon](https://github.com/houseofmaldorne/hexagon).
