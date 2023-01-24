@@ -15,7 +15,7 @@ Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverb
  
 <div align="center">
 
-[![neverbot's github stats](https://github-readme-stats.vercel.app/api?username=neverbot&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![neverbot's github stats](https://github-readme-stats-five-iota-96.vercel.app/api?username=neverbot&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
