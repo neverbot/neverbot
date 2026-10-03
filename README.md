@@ -15,7 +15,7 @@ Take a look at my [CV/Developer Story](https://www.getmanfred.com/profile/neverb
  
 <div align="center">
  
-[![neverbot's GitHub stats](https://github-stats-extended.vercel.app/api?username=neverbot&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
+[![neverbot's GitHub stats](https://github-stats-extended.vercel.app/api?username=neverbot&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended) [![neverbot's top languages](https://github-stats-extended.vercel.app/api/top-langs?username=neverbot&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
